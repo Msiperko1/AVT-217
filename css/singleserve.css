@@ -1,25 +1,29 @@
 body{
+	text-align: center;
 	background-image: url(../andreasbg.png); 
 	color: transparent;
 	margin: 0;
-	font-family: 'Gamja Flower', cursive;
+	font-family: 'Anton', sans-serif;
 	}
 .dot:hover{
-	color: purple;
+	position: absolute;
 	text-align: center;
+	color: white;
 	background-color: magenta;
 	font-family: 'Anton', sans-serif;
 }
 .circle{
 	margin-top: 400px;
 	margin-left: 400px;
-	background-color: #682253;
+	background-color: transparent;
 	position: absolute;
 	width: 30px;
 	height: 30px;
 	border-radius: 30px;
 }
 .dot{
+	text-align: center;
+	white-space: nowrap;
 	top: 395px;
 	left: 395px;
 	position: absolute;
@@ -28,9 +32,10 @@ body{
 	border-radius: 40px;
 }
 h2{
-	margin-top: -200px;
+	margin-left: -50px;
+	margin-top: -30px;
 	font-family: 'Anton', sans-serif;
-	font-size: 10px;
+	font-size: 20px;
 	text-align: center;
 	border-top: 50px;
 }
