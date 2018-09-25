@@ -11,19 +11,21 @@ Randomdotplace();
 //change your function name to something that makes sense. Use that name to call it above.
 
 function Randomdotplace() {
-	$('.dot').click(function() {
+$('.dot').click(function() {
+  $('.dot').removeClass('hover');
   var bodyWidth = document.body.clientWidth;
   var bodyHeight = $( document ).height();
   var randPosX = Math.floor((Math.random()*bodyWidth));
   var randPosY = Math.floor((Math.random()*bodyHeight));
-	console.log(bodyHeight);
-	 console.log(randPosY);
-  
   $('.dot').css('left', randPosX);
   $('.dot').css('top', randPosY);
-  
-  
+});
+$('.dot').mouseenter(function() {
+  $('.dot').addClass('hover');
+});
+$('.dot').mouseleave(function() {
+  $('.dot').removeClass('hover');
 });
 
-
 }
+

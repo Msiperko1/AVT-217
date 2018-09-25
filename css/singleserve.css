@@ -5,11 +5,11 @@ body{
 	margin: 0;
 	font-family: 'Anton', sans-serif;
 	}
-.dot:hover{
+	.hover {
+	background-color: magenta;
+	color: white;
 	position: absolute;
 	text-align: center;
-	color: white;
-	background-color: magenta;
 	font-family: 'Anton', sans-serif;
 }
 .circle{
@@ -22,6 +22,7 @@ body{
 	border-radius: 30px;
 }
 .dot{
+	background-color: #771170;
 	text-align: center;
 	white-space: nowrap;
 	top: 395px;
