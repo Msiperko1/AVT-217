@@ -5,7 +5,8 @@ body{
 	margin: 0;
 	font-family: 'Anton', sans-serif;
 	}
-	.hover {
+	
+.hover {
 	background-color: magenta;
 	color: white;
 	position: absolute;
