@@ -1,0 +1,10 @@
+body{
+	top-margin:200px;
+	text-align: center; 
+	font-size: 60px
+	color: white;
+	font-family: 'Lato', sans-serif;
+}
+body{
+	background-image: url(pace.png);
+}
