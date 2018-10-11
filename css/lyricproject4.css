@@ -1,0 +1,29 @@
+body{
+	padding-top: 150px;
+}
+body{
+	background-color: #404040;
+	color: #cccccc;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	font-size: 80px;
+}
+a{
+    color: #cccccc;
+}
+}
+a#tab-2:hover{
+	border-bottom: double;
+    color: #b30000;
+    transition: all ease-in-out .3s;
+}
+a#tab-1:hover{
+	border-bottom: dashed;
+	color:#000080;
+	transition: all ease-in-out .3s;
+}
+a#tab-3:hover{
+	border-bottom: dashed;
+	color:#000080;
+	transition: all ease-in-out .3s;
+}

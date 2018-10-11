@@ -1,0 +1,18 @@
+body{
+	padding-top: 150px;
+}
+body{
+	background-color: #b3b3b3;
+	color:  #333333;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	font-size: 80px;
+}
+a{
+    color: #333333;
+}
+a#tab-2:hover{
+	border-bottom: double;
+    color: #b30000;
+    transition: all ease-in-out .3s;
+}

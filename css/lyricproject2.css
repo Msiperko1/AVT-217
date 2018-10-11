@@ -1,0 +1,26 @@
+body{
+	padding-top: 150px;
+}
+body{
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	font-size: 80px;
+}
+.page2{
+	background-color: #262626;
+	color: #e6e6e6;
+}
+a{
+    color: #e6e6e6;
+}
+a#tab-2:hover{
+	border-bottom: double;
+    color: #b30000;
+    transition: all ease-in-out .3s;
+}
+a#tab-1:hover{
+	border-bottom: dashed;
+	color:#000080;
+	transition: all ease-in-out .3s;
+	
+}

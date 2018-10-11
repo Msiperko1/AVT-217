@@ -1,0 +1,42 @@
+.page1{
+	text-align: center;
+}
+.page1 h1{
+	letter-spacing: 1px;
+	border-bottom: solid;
+	font-size: 45px;
+}
+.page1 h2{
+	font-size: 30px;
+}
+.page1 h3{
+	font-size: 25px;
+}
+.page1 p{
+	text-align: justify;
+	margin-right: 50px; 
+	margin-left: 50px;
+	font-size: 25px;
+}
+.page2{
+	background-color: lightblue; 
+	font-size: 20px;
+}
+.page2 h1{
+	text-align: center;
+	font-size: 50px;
+}
+.page2 h2{
+	
+}
+.page2 h3
+.page2 b{
+	color: hotpink;
+}
+.page2 p{
+	font-size: 30px;
+	text-align: justify;
+	margin-right: 100px;
+	margin-left: 100px; 
+	columns:2;
+}
