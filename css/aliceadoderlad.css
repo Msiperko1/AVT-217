@@ -1,42 +1,115 @@
 .page1{
+	font-family: 'Playfair Display', serif;
 	text-align: center;
 }
 .page1 h1{
+	font-family: 'Playfair Display', serif;
 	letter-spacing: 1px;
 	border-bottom: solid;
 	font-size: 45px;
 }
 .page1 h2{
+	font-family: 'Playfair Display', serif;
 	font-size: 30px;
 }
 .page1 h3{
+	font-family: 'Playfair Display', serif;
 	font-size: 25px;
 }
 .page1 p{
+	font-family: 'Playfair Display', serif;
 	text-align: justify;
 	margin-right: 50px; 
 	margin-left: 50px;
 	font-size: 25px;
 }
 .page2{
-	background-color: lightblue; 
+	color: #c1c683;
+	background-color: #3bf9f9; 
 	font-size: 20px;
 }
 .page2 h1{
+	font-family: 'Rubik', sans-serif;
 	text-align: center;
 	font-size: 50px;
 }
 .page2 h2{
-	
+	font-family: 'Rubik', sans-serif;
 }
-.page2 h3
+.page2 h3{
+	font-family: 'Rubik', sans-serif;
+}
 .page2 b{
-	color: hotpink;
+	color: #e28cca;
 }
 .page2 p{
+	font-family: 'Acme', sans-serif;
 	font-size: 30px;
 	text-align: justify;
 	margin-right: 100px;
 	margin-left: 100px; 
-	columns:2;
+	columns: 2;
+}
+.page3{
+	background-color: pink;
+}
+.page3 h1{
+	font-family: 'Noto Sans', sans-serif;
+	text-align: center;
+	font-size: 100px;
+}
+.page3 h2{
+	font-size: 60px;
+	font-family: 'Noto Sans', sans-serif;
+	text-align: center;
+}
+.page3 h3{
+	font-size: 40px;
+	font-family: 'Noto Sans', sans-serif;
+	text-align: center;
+}
+.page3 .paragraph{
+	font-size: 30px;
+	font-family: 'Mali', cursive;
+	margin-left: 200px;
+	margin-right: 200px;
+	margin-top: 650px;
+	text-align: center;
+	border-bottom: solid;
+} 
+.page3 img{
+	margin-left: 700px;
+	position: absolute;
+    border-radius: 50%;
+}
+.page4{
+	background-color: #e7ed80;
+}
+.page4 h1{
+	font-family: 'Charmonman', cursive;
+	color: #80b8ce;
+	font-weight: 10em;
+	font-size: 55px;
+}
+.page4 h3{
+	font-family: 'Charmonman', cursive;
+	color: #80b8ce;
+	font-weight: 10em;
+	font-size: 34px;
+}
+.page4 h2{
+	font-family: 'Handlee', cursive;
+	color: #80b8ce;
+	text-align: center;
+	font-weight: 10em;
+	font-size: 45px;
+}
+.page4 p{
+	font-family: 'Handlee', cursive;
+	color: #337a96;
+	margin-left: 400px;
+	margin-right: 400px; 
+	text-align: center;
+	font-weight: 10em;
+	font-size: 27px;
 }
