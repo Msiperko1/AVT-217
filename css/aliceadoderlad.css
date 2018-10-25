@@ -114,5 +114,29 @@
 	font-size: 27px;
 }
 .page5{
-	background-image: '/alicepic.png';
+	background-image: url(../allice.png);
+	width: 2000px; 
+}
+.page5 h1{
+	text-align: center;
+	font-size: 40px;
+	color: #3893e8;
+}
+.page5 h2{
+	text-align: center;
+	color: #3893e8;
+	margin-left: 500px;
+	margin-right: 500px;
+}
+.page5 h3{
+	text-align: center;
+	color: #3893e8;
+	margin-left: 500px;
+	margin-right: 500px;
+}
+.page5 p{
+	text-align: center;
+	color: #3893e8;
+	margin-left: 500px;
+	margin-right: 500px;
 }
