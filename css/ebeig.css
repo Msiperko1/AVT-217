@@ -51,7 +51,7 @@ img{
 @media only screen and (max-width: 1500px) {
 
 body{
-	font-size: 1.2em;
+	font-size: 1.5em;
 	/*margin-left: 500px;*/	
 }
 h1 {
@@ -75,12 +75,12 @@ li{
 p{
 	margin-right: 250px; 
 	margin-left: 250px;
-	font-size: 1.2em;
+	font-size: 1.5em;
 }
 p.li{
 	margin-right: 250px; 
 	margin-left: 350px;
-	font-size: 1.2em;
+	font-size: 1.5em;
 }
 .last{
 	border-top: solid;
@@ -102,7 +102,7 @@ img{
 @media only screen and (max-width: 1024px) {
 
 body{
-	font-size: 1.2em;
+	font-size: 1em;
 	/*margin-left: 500px;*/	
 }
 h1 {
@@ -126,12 +126,12 @@ li{
 p{
 	margin-right: 150px; 
 	margin-left: 150px;
-	font-size: 1.2em;
+	font-size: 1em;
 }
 p.li{
 	margin-right:50px; 
 	margin-left: 250px;
-	font-size: 1.2em;
+	font-size: 1em;
 }
 .last{
 	border-top: solid;
