@@ -40,14 +40,12 @@ iframe {
 	height: 325px;
 	display:block;
 	margin: 0 auto;
-	position: relative;
 }
 img{
 	width: 1400px;
 	height: 625px;
 	display:block;
 	margin: 0 auto;
-	position: relative;
 }
 
 @media only screen and (max-width: 1500px) {
@@ -91,14 +89,12 @@ iframe {
 	width: 460px;
 	height: 275px;
 	display:block;
-	position: relative;
 	margin: 0 auto;
 }
 img{
 	width: 1000px;
 	height: 525px;
 	display:block;
-	position: relative;
 	margin: 0 auto;
 }
 
@@ -145,14 +141,12 @@ iframe {
 	height: 200px;
 	display:block;
 	margin: 0 auto;
-	position: relative;
 }
 img{
 	width: 661px;
 	height: 300px;
 	display:block;
 	margin: 0 auto;
-	position: relative;
 }
 
 }
@@ -198,14 +192,12 @@ iframe {
 	height: 200px;
 	display:block;
 	margin: 0 auto;
-	position: relative;
 }
 img{
 	width: 400px;
 	height: 200px;
 	display:block;
 	margin: 0 auto;
-	position: relative;
 }
 
 }
