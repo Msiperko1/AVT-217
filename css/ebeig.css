@@ -39,7 +39,7 @@ iframe {
 img{
 	margin-left: 50px;
 }
-@media only screen and (max-width: 1000px) {
+@media only screen and (max-width: 1024px) {
 
 body{
 	font-size: 20px; 
@@ -50,8 +50,8 @@ h1 {
     font-size: 3.2em;
 }
 h2 {
-	margin-right: 400px; 
-	margin-left: 400px;
+	margin-right: 350px; 
+	margin-left: 350px;
     text-align: center;
     font-size: 1.9em;
 }
@@ -60,24 +60,24 @@ h3 {
     font-size: 1.0em;
 }
 li{
-	margin-right: 400px; 
-	margin-left: 400px;
+	margin-right: 350px; 
+	margin-left: 350px;
 }
 p{
-	margin-right: 400px; 
-	margin-left: 400px;
+	margin-right: 350px; 
+	margin-left: 350px;
 	font-size: 0.8em;	
 }
 p.li{
-	margin-right: 400px; 
-	margin-left: 500px;
+	margin-right: 350px; 
+	margin-left: 450px;
 	font-size: 0.8em;	
 }
 .last{
 	border-top: solid;
 }
 iframe {
-	margin-left: 400px;
+	margin-left: 350px;
 }
 img{
 	margin-left: 30px;
