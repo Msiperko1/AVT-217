@@ -35,16 +35,21 @@ p.li{
 	
 }
 iframe {
-	margin-left: 480px;
-	width: 560px;
-	height: 315px;
+	margin-left: 250px;
+	width: 510px;
+	height: 325px;
+	display:block;
+	margin: 0 auto;
 }
 img{
-	margin-left: 50px;
-	width: 1400px
-	height: 650px
+	margin-left: 30px;
+	width: 1400px;
+	height: 625px;
+	display:block;
+	margin: 0 auto;
 }
-@media only screen and (max-width: 2000px) {
+
+@media only screen and (max-width: 1500px) {
 
 body{
 	font-size: 28px; 
@@ -83,13 +88,17 @@ p.li{
 }
 iframe {
 	margin-left: 250px;
-	width: 460px 
-	height: 215px
+	width: 460px;
+	height: 275px;
+	display:block;
+	margin: 0 auto;
 }
 img{
 	margin-left: 30px;
-	width: 1000px 
-	height: 250px
+	width: 1000px;
+	height: 525px;
+	display:block;
+	margin: 0 auto;
 }
 
 }
@@ -135,12 +144,16 @@ iframe {
 	margin-left: 150px;
 	width: 330px;
 	height: 200px;
+	display:block;
+	margin: 0 auto;
 }
 img{
 	margin-left: -10px;
 	margin-right: 0px;
 	width: 661px;
 	height: 300px;
+	display:block;
+	margin: 0 auto;
 }
 
 }
@@ -186,12 +199,16 @@ iframe {
 	margin-right: 45px;
 	width: 300px;
 	height: 200px;
+	display:block;
+	margin: 0 auto;
 }
 img{
 	margin-left: -10px;
 	margin-right: 0px;
 	width: 400px;
 	height: 200px;
+	display:block;
+	margin: 0 auto;
 }
 
 }
