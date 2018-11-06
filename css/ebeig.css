@@ -40,6 +40,7 @@ iframe {
 	height: 325px;
 	display:block;
 	margin: 0 auto;
+	position: relative;
 }
 img{
 	margin-left: 30px;
@@ -47,6 +48,7 @@ img{
 	height: 625px;
 	display:block;
 	margin: 0 auto;
+	position: relative;
 }
 
 @media only screen and (max-width: 1500px) {
@@ -91,7 +93,7 @@ iframe {
 	width: 460px;
 	height: 275px;
 	display:block;
-	position: absolute;
+	position: relative;
 	margin: 0 auto;
 }
 img{
@@ -99,7 +101,7 @@ img{
 	width: 1000px;
 	height: 525px;
 	display:block;
-	position: absolute;
+	position: relative;
 	margin: 0 auto;
 }
 
@@ -148,7 +150,7 @@ iframe {
 	height: 200px;
 	display:block;
 	margin: 0 auto;
-	position: absolute;
+	position: relative;
 }
 img{
 	margin-left: -10px;
@@ -157,7 +159,7 @@ img{
 	height: 300px;
 	display:block;
 	margin: 0 auto;
-	position: absolute;
+	position: relative;
 }
 
 }
@@ -205,7 +207,7 @@ iframe {
 	height: 200px;
 	display:block;
 	margin: 0 auto;
-	position: absolute;
+	position: relative;
 }
 img{
 	margin-left: -10px;
@@ -214,7 +216,7 @@ img{
 	height: 200px;
 	display:block;
 	margin: 0 auto;
-	position: absolute;
+	position: relative;
 }
 
 }
