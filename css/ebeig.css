@@ -75,12 +75,12 @@ li{
 p{
 	margin-right: 250px; 
 	margin-left: 250px;
-	font-size: 28px;
+	font-size: 1em;
 }
 p.li{
 	margin-right: 250px; 
 	margin-left: 350px;
-	font-size: 28px;
+	font-size: 1em;
 }
 .last{
 	border-top: solid;
