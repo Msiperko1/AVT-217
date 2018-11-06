@@ -91,6 +91,7 @@ iframe {
 	width: 460px;
 	height: 275px;
 	display:block;
+	position: absolute;
 	margin: 0 auto;
 }
 img{
@@ -98,6 +99,7 @@ img{
 	width: 1000px;
 	height: 525px;
 	display:block;
+	position: absolute;
 	margin: 0 auto;
 }
 
@@ -146,6 +148,7 @@ iframe {
 	height: 200px;
 	display:block;
 	margin: 0 auto;
+	position: absolute;
 }
 img{
 	margin-left: -10px;
@@ -154,6 +157,7 @@ img{
 	height: 300px;
 	display:block;
 	margin: 0 auto;
+	position: absolute;
 }
 
 }
@@ -201,6 +205,7 @@ iframe {
 	height: 200px;
 	display:block;
 	margin: 0 auto;
+	position: absolute;
 }
 img{
 	margin-left: -10px;
@@ -209,6 +214,7 @@ img{
 	height: 200px;
 	display:block;
 	margin: 0 auto;
+	position: absolute;
 }
 
 }
