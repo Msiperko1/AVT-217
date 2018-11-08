@@ -97,6 +97,7 @@ h3 {
     font-size: 20px;
 }
 li.e{
+	background-color: none;
 	color: grey;
 	margin-right: 250px; 
 	margin-left: 250px;
