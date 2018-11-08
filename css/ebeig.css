@@ -49,6 +49,9 @@ p{
 	font-size: 1em;	
 	font-family: 'Hind', sans-serif;
 }
+sup{
+	color: grey;
+}
 p.li{
 	margin-right: 480px; 
 	margin-left: 580px;
