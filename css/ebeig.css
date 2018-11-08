@@ -2,37 +2,62 @@ body{
 	font-size: 23px; 
 	/*margin-left: 500px;*/	
 }
+a:link{
+	color: darkgrey;
+	border-bottom: 1px dotted black;
+	text-decoration: none;
+}
+a:hover{
+	color: darkblue;
+	border-bottom: 1px solid darkblue;
+	text-decoration: none;
+}
+a:visited {
+    color: purple;
+}
 h1 {
     text-align: center;
     font-size: 3.6em;
+    font-family: 'Roboto Slab', serif;
 }
 h2 {
 	margin-right: 480px; 
 	margin-left: 480px;
     text-align: center;
     font-size: 2.1em;
+    font-family: 'Roboto Slab', serif;
 }
 h3 {
     text-align: center;
     font-size: 1.3em;
+    font-family: 'Roboto Slab', serif;
 }
 li{
 	margin-right: 480px; 
+	margin-left: 580px;
+	font-family: 'Hind', sans-serif;
+}	
+li.e{
+	color: grey;
+	margin-right: 480px; 
 	margin-left: 480px;
-}
+	font-family: 'Hind', sans-serif;
+}	
 p{
 	margin-right: 480px; 
 	margin-left: 480px;
 	font-size: 1em;	
+	font-family: 'Hind', sans-serif;
 }
 p.li{
 	margin-right: 480px; 
 	margin-left: 580px;
 	font-size: 1em;	
+	font-family: 'Hind', sans-serif;
 }
 .last{
+	color: grey;
 	border-top: solid;
-	
 }
 iframe {
 	margin-left: 250px;
@@ -42,12 +67,11 @@ iframe {
 	margin: 0 auto;
 }
 img{
-	width: 1400px;
-	height: 625px;
+	width: 1200px;
+	height: 575px;
 	display:block;
 	margin: 0 auto;
 }
-
 @media only screen and (max-width: 1500px) {
 
 body{
@@ -56,17 +80,17 @@ body{
 }
 h1 {
     text-align: center;
-    font-size: 3.6em;
+    font-size: 64px;
 }
 h2 {
 	margin-right: 250px; 
 	margin-left: 250px;
     text-align: center;
-    font-size: 2.1em;
+    font-size: 40px;
 }
 h3 {
     text-align: center;
-    font-size: 1.3em;
+    font-size: 20px;
 }
 li{
 	margin-right: 250px; 
@@ -75,12 +99,12 @@ li{
 p{
 	margin-right: 250px; 
 	margin-left: 250px;
-	font-size: 1em;
+	font-size: 23px;
 }
 p.li{
 	margin-right: 250px; 
 	margin-left: 350px;
-	font-size: 1em;
+	font-size: 23px;
 }
 .last{
 	border-top: solid;
@@ -102,7 +126,7 @@ img{
 @media only screen and (max-width: 1024px) {
 
 body{
-	font-size: 0.5em;
+	font-size: 20px;
 	/*margin-left: 500px;*/	
 }
 h1 {
@@ -126,12 +150,12 @@ li{
 p{
 	margin-right: 150px; 
 	margin-left: 150px;
-	font-size: 1em;
+	font-size: 20px;
 }
 p.li{
 	margin-right:50px; 
 	margin-left: 250px;
-	font-size: 1em;
+	font-size: 20px;
 }
 .last{
 	border-top: solid;
@@ -150,7 +174,7 @@ img{
 }
 
 }
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 600px) {
 
 body{
 	font-size: 20px; 
