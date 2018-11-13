@@ -1,15 +1,43 @@
-.greenBG {
-    background-color: green;
+span {
+  color: #127691;
+  cursor: pointer;
+  }
+div {
+  margin: 3px;
+  width: 300px;
+  display: none;
+  height: 100px;
+  float: left;
+  }
+  h1{
+   text-align: center;
+   font-size: 80px; 
+   font-family: 'Roboto Slab', serif;
+   color: #19a1c6;
+  }
+  p{
+    font-family: 'Roboto Slab', serif;
+    text-align: center;
+    font-size: 40px;
+    color: blue;
+  }
+#one {
+  background: lightpink;
+  margin-top:100px;
+  margin-left:600px;
 }
-.blueBG {
-    background-color: darkblue;
+#four{
+  background-color: dodgerblue;
 }
-.blackBG {
-    background-color: black;
+#five{
+  background-color: black;
+  color: orange;
 }
-.orangeBG {
-    background-color: orange;
+.number5{
+  position: absolute;
+  top: 0;
+  color: white;
 }
-.pinkBG {
-    background-color: lightpink;
+#eve{
+ color: green; 
 }

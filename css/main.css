@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    font-size: 24px;
+}
+.number5 {
+    position: absolute;
+    top: 0;
+    transition: all 2s ease;
+    color: white;
+}
+.number4 {
+    position: fixed;
+    top: 0;
+    transition: all 2s ease;
+}
+
+h1, h2 {
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+    text-align: center;
+    margin: 0;
+    padding-top: 40vh;
+    transition: all 10s ease;
+}
+.hover {
+    background-color: magenta;
+    color: white;
+    position: absolute;
+    text-align: center;
+    font-family: 'Anton', sans-serif;
+}
+h1 {
+    font-size: 4em;
+}
+h2 {
+    font-size: 2em;
+}
+.redBG {
+    background-color: tomato;
+}
+.pinkBG {
+    background-color: lightpink;
+}
+.purpleBG {
+    background-color: rebeccapurple;
+}
+.jqClick, .jqHover {
+    cursor: pointer;
+}
