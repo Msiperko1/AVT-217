@@ -1,0 +1,36 @@
+body {
+    margin: 0;
+    color: black;
+    font-family: 'Cabin Condensed', sans-serif;
+    border-style: outset;
+}
+#gameArea {
+    margin-top: 200px;
+    margin-left: 500px;
+}
+#reset{
+    display: none;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Cabin Condensed', sans-serif;
+}
+
+button {
+    width: 150px;
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 15px;
+    margin: 50px auto;
+}
+button:hover {
+    cursor: pointer;
+}
+button p {
+    text-align: center;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    font-weight: bold;
+}
