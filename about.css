@@ -1,0 +1,12 @@
+body {
+    margin: 0;
+}
+h2{ 
+    font-family: 'Stardos Stencil', cursive;
+    text-align: center;
+    font-size: 53px;
+}
+p{
+    font-family: 'IM Fell DW Pica', serif;
+    font-size: 40px;
+}
